@@ -1,8 +1,8 @@
 - 👋 Hey, I’m @axelpina
-- 👀 I’m interested in AWS, Backend Software Development, PowerShell, Linux, Windows, Docker, Open Source & more.
-- 🌱 I’m currently learning how to develop using Python.
+- 👀 I’m interested in Cloud infrastructure, Backend Software Development, PowerShell, Linux, AI, Docker, Open Source & more.
+- 🔭 I’m currently working at @giro-credito & @latitude-investments
 - 💬 Ask me about AWS services.
-- 🫡 I’m looking to collaborate on stuffs.
+- 🫡 Looking to collaborate.
 - 🌐 https://www.axelpina.dev/
 
 <!--
